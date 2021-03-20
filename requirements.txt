@@ -3,7 +3,7 @@ ffmpeg==1.4
 Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pytube==9.6.0
 pytube3==9.6.4
